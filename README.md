@@ -1,4 +1,4 @@
-📊 stock-market-analysis
+
 📈 Displays live stock and cryptocurrency data with real-time updates.
 
 🗓️ Includes historical data from 2020 to 2026 for analysis and comparison.
